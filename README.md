@@ -18,7 +18,7 @@ KAOS is based on Suse Studio. You can find the KAOS Operating System appliance a
 
 https://susestudio.com/u/dillingerlee
 
-A number of free programming books can be found in the Documents directory using. Just launch the Okular pdf reader, go to File / Open and they should appear in the list :)
+A number of free programming books can be found in the Documents directory. Just launch the Okular pdf reader, go to File / Open and they should appear in the list :)
 
 youTube video support files are upcoming shortly which will document getting started in Assembly using KAOS
 

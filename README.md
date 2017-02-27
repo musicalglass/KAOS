@@ -6,7 +6,7 @@ So tutorials made today will not be obsolete next year due to unforeseen updates
 
 The current image can be downloaded here:
 
-https://www.dropbox.com/s/n72bh73lpmku45z/KAOS.x86_64-0.0.4.iso?dl=1
+https://www.dropbox.com/s/s0rrbogbtsouygx/KAOS.x86_64-0.0.5.iso?dl=1
 
 Just insert the CD and restart, and your PC or Apple computer should boot into a new Operating System.
 
@@ -22,6 +22,6 @@ A number of free programming books can be found in the Documents directory. Just
 
 youTube video support files are upcoming shortly which will document getting started in Assembly using KAOS
 
-I am interested in learning more about 16 bit old school graphics programming, writing kernels, layout schemes for different kinds of theoretical Operating Systems, etc.
+I am interested in learning more about 16 bit old school graphics programming, writing kernels, layout schemes for different kinds of theoretical Operating Systems, building a compiler, etc.
 
 The vision behind KAOS is to create an OS which is entirely documented on video. So any individual or group could build their own OS from scratch just by following the videos :)

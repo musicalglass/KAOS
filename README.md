@@ -30,4 +30,4 @@ The vision behind KAOS is to create an OS which is entirely documented on video.
 
 You can contribute to the KAOS Project by helping assimilate Assembly code for DOS, TASM, TI-84, etc. into Linux NASM
 
-Any contributions to the Operating System Project tutorial itself MUST be accompanied by a YouTube video documentation link, since most videos would be too large to post directly onto GitHub
+Any contributions to the Operating System Project tutorial itself MUST be accompanied by a YouTube video documentation link, since most videos would be too large to post directly onto GitHub. Linux video tutorials with no sound are unacceptable. Thanks.

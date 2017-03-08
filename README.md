@@ -14,14 +14,19 @@ username: programmer
 
 password: linux
 
+Tutorial videos for using KAOS can be found at this YouTube address:
+https://www.youtube.com/watch?v=XJdcoHjzvCo&list=PLJv7Sh0ZDUnpNnhNm3msK1C4K_8SzfMvO
+
 KAOS is based on Suse Studio. You can find the KAOS Operating System appliance at this address if you are interested in the package list or cloning your own Distro:
 
 https://susestudio.com/u/dillingerlee
 
 A number of free programming books can be found in the Documents directory. Just launch the Okular pdf reader, go to File / Open and they should appear in the list :)
 
-youTube video support files are upcoming shortly which will document getting started in Assembly using KAOS
-
 I am interested in learning more about 16 bit old school graphics programming, writing kernels, layout schemes for different kinds of theoretical Operating Systems, building a compiler, etc.
 
 The vision behind KAOS is to create an OS which is entirely documented on video. So any individual or group could build their own OS from scratch just by following the videos :)
+
+You can contribute to the KAOS Project by helping assimilate Assembly code for DOS, TASM, TI-84, etc. into Linux NASM
+
+Any contributions to the Operating System Project tutorial itself MUST be accompanied by a YouTube video documentation link, since most videos would be too large to post directly onto GitHub

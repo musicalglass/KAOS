@@ -15,6 +15,7 @@ username: programmer
 password: linux
 
 Tutorial videos for using KAOS can be found at this YouTube address:
+
 https://www.youtube.com/watch?v=XJdcoHjzvCo&list=PLJv7Sh0ZDUnpNnhNm3msK1C4K_8SzfMvO
 
 KAOS is based on Suse Studio. You can find the KAOS Operating System appliance at this address if you are interested in the package list or cloning your own Distro:

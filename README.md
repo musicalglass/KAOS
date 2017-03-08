@@ -6,7 +6,7 @@ So tutorials made today will not be obsolete next year due to unforeseen updates
 
 The current image can be downloaded here:
 
-https://www.dropbox.com/s/s0rrbogbtsouygx/KAOS.x86_64-0.0.5.iso?dl=1
+https://www.dropbox.com/s/ug9mtyhrktmex86/KAOS.x86_64-0.0.11.iso?dl=1
 
 Just insert the CD and restart, and your PC or Apple computer should boot into a new Operating System.
 

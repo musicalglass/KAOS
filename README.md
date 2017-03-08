@@ -4,7 +4,7 @@ KAOS is a 64 bit bootable Live CD image with tools for Assembly, C & C++.
 KAOS was created to teach, learn, and share knowledge about lower level programming in Machine Code using a consistent platform. 
 So tutorials made today will not be obsolete next year due to unforeseen updates of the OS, Applications, IDEs, or hardware incompatibility, etc., etc..
 
-The current image can be downloaded here:
+The current CD image can be downloaded here:
 
 https://www.dropbox.com/s/ug9mtyhrktmex86/KAOS.x86_64-0.0.11.iso?dl=1
 

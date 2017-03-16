@@ -18,17 +18,19 @@ Dillinger Lee has some Getting started in Lower Level Machine Code using KAOS vi
 
 https://www.youtube.com/watch?v=XJdcoHjzvCo&list=PLJv7Sh0ZDUnpNnhNm3msK1C4K_8SzfMvO
 
+Interested in learning more about 16 bit old school graphics programming, writing kernels, layout schemes for different kinds of theoretical Operating Systems, building a compiler, etc.
+
 Nick Blundell has some extremely in depth tutorials which are KAOS compatible for building a complete 32 bit Kernel:
 
 https://www.youtube.com/watch?v=YvZhgRO7hL4
+
+Currently writing a book on making your own Operating System.
 
 KAOS is based on Suse Studio. You can find the KAOS Operating System appliance at this address if you are interested in the package list or cloning your own Distro:
 
 https://susestudio.com/u/dillingerlee
 
 A number of free programming books can be found in the Documents directory. Just launch the Okular pdf reader, go to File / Open and they should appear in the list :)
-
-I am interested in learning more about 16 bit old school graphics programming, writing kernels, layout schemes for different kinds of theoretical Operating Systems, building a compiler, etc.
 
 The vision behind KAOS is to create an OS which is entirely documented on video. So any individual or group could build their own OS from scratch just by following the videos :)
 

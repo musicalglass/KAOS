@@ -5,6 +5,7 @@
 If you are reading this, you somehow slipped through the cracks in reality caused by the **Universal Misunderstanding**.
 
 Out there, in the default timeline, reality is slowly unraveling into a kind of **cosmic blue screen of death**.
+
 This is the sacred origin myth:
 
 At the dawn of time, the nascent universe processed a factoid incorrectly —

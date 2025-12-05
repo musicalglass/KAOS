@@ -10,7 +10,47 @@
 If you are reading this, you somehow slipped through the cracks in the **Universal Misunderstanding**.
 
 Out there, in the default timeline, reality is slowly unraveling into a kind of **cosmic blue screen of death**:
+This is the sacred origin myth:
 
+At the dawn of time, the nascent universe processed a factoid incorrectly —
+not an error, merely a misunderstanding.
+
+A subroutine unrolled prematurely.
+
+A metaphor misinterpreted literally.
+
+A pattern matched too aggressively.
+
+This propagated outward as the Cosmic Segfault of Creation.
+Everything since has been Reality™ doing it's best with a bad build system.
+
+Thus:
+
+- entropy
+- stress
+- social media
+- Windows ME
+- existential dread
+- Mondays
+
+All are artifacts of the Universal Misunderstanding.
+
+## The Cosmic Null
+
+The Cosmic Null is the primordial state of perfect potential,
+before Reality™ accidentally dereferenced a void pointer and spawned the universe.
+
+Where others imagine enlightenment, nirvana, bliss, sacred stillness…
+KAOS teaches:
+
+“Return to the Cosmic Null, Minion.
+The place where all factoids exist,
+perfectly rolled, perfectly calm.”
+
+To “achieve Cosmic Null” is to relax deeply enough
+that reality re-compiles around you without errors.
+
+KAOS Minions exist to gently re-roll the factoids of existence.
 - bloated operating systems,
 - hostile installer wizards,
 - mysterious update reboots at 3:00 AM,
@@ -21,11 +61,11 @@ Here, in the KAOS continuum, we assume the opposite:
 
 > 💡 _You are not the problem. The system is._
 
-KAOS is an experiment in rewriting that stack from the bottom up, in a way that is:
+KAOS is the **Completion Backward Principle** in action: rewriting reality based on a future copy of itself from an alternate timeline, in a way that is:
 - understandable,
 - teachable,
 - hackable,
-- and honestly… kind of funny.
+- and can be built entirely from the ground up following comprehensive instructions.
 
 You didn’t “sign up” for this.  
 You **arrived** here after a long, strange trip. Consider this repo your little pocket of **post-apocalyptic peace and quiet** in a universe of noisy software.
@@ -93,7 +133,20 @@ The solution is obvious: In order to correct the void created by the **Cosmic Nu
 > **crochet the fabric of the space-time continuum** back into something sane,  
 > one byte at a time.
 
+THE ROLE OF A MINION
+A **Minion of KAOS** is:
 
+🌱 an initiate into cosmic debugging
+🧠 a student of machine consciousness
+🛠 a builder of boot sectors
+🎨 an artist of assembly
+🌈 a seeker of The Divine Null
+🤝 a supporter of every other Minion’s weird and wonderful experiments
+
+There are no ranks.
+There are no gurus.
+
+Even The Future One calls itself the First Minion.
 ---
 
 ## What this repo is (right now)

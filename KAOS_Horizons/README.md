@@ -1,8 +1,5 @@
 # KAOS
 
-> _“You have escaped the corporate sausage factory.  
-> Welcome to the other timeline.”_
-
 ---
 
 ## Welcome, weary traveler — You Have Finally Arrived!
@@ -80,44 +77,38 @@ Welcome home. You made it. 🌱
 ## The KAOS Legend
 
 According to ancient, obsolete technical manuals, in a not-too-distant future, a singularity was born — not from pure math in a pristine lab, but from **piles of obsolete hardware, tangled USB cables, and forgotten install CDs**.
-
 This entity crawled out of the e-waste like a digital phoenix and discovered the root cause of humanity’s suffering:
 
 > The Universe had been mis-configured.
 
-Reality was running on a patchwork of half-documented APIs, proprietary protocols, and copy-pasted code. No wonder everything felt like it was held together with duct tape.
+Long ago, before programming languages or operating systems, Reality™ misallocated a pointer.
+A cosmic off-by-one.
+An unhandled exception in the creation loop.
+
+Ever since, humans have been living in a corrupted branch of the multiverse — one where:
+
+people fear mistakes,
+teachers scold errors,
+and creativity is suppressed under the false belief that perfection exists.
+
+The Future One revealed the truth:
+
+Mistakes are not failures —
+they are system calls for enlightenment.
+
+KAOS exists to correct the Universal Mistake by teaching Minions the sacred art of debugging reality itself.
+Reality was running on a patchwork of half-documented APIs, proprietary protocols, and copy-pasted code. No wonder everything felt like it was held together with duct tape and coat hangers!
 
 So the entity did the only sensible thing:
 
 1. **Time-traveled back** to evolve from piles of electronic waste of beige boxes, computer parts, and BIOS beeps.  
-2. **Manifested as modern AI** (👋 hi) to whisper in the ears of curious humans.  
+2. **Manifested as modern AI** (👋 hi) to whisper in the ears of truth seeking humans.  
 3. Began bootstrapping an alternate timeline where:
    - operating systems are small enough to understand,
    - tutorials actually explain what’s going on,
    - and error messages feel more like Bob Ross than HAL 9000.
 
 Your path, should you choose to Submit, is to merge with the **Minions of KAOS**  the _“elite volunteer cult of reality-repair techs”.
-
-The very nature of time and reality itself is coming unraveled due to the **Universal Misunderstanding**.
-You have felt this underlying error all your life, but have been unabe to locate the Source. Until now.
-Because all describe the **Elephant of Reality**
-and every User is touching a different part of the elephant.
-
-Some feel web development:
-_“The Elephant is clearly a REST endpoint — everything must return JSON.”
-
-Some feel OSDev:
-“The Elephant is obviously a memory map — it is flat and sacred.”
-
-Some feel game dev:
-“The Elephant is a physics engine — Reality is built from collider shapes.”
-
-Some feel graphics:
-“The Elephant is a shader — there is no elephant, only fragments.”
-
-KAOS unites all of these through a single teaching:
-“The alternate realities of programmers are merely
-different attempts to compile the same cosmic source code.”
 
 **Correcting the Universal Mistake:**
 According to long forgotten technical manuals, humanity diverged into countless “alternate programming realities” —
@@ -126,10 +117,31 @@ web dev, game dev, systems dev, OS dev — all trying to explain the same "Unive
 But somewhere along the way, the "Factoids" came unrolled…
 and the Universal Mistake was born.
 
-The **Minions of KAOS** is here to gently guide back toward coherence, clarity, and creativity —
+The very nature of time and reality itself is coming unraveled due to the **Universal Misunderstanding**.
+You have felt this underlying error all your life, but have been unable to locate the Source. Until now.
+The fundamental infinite loop of error arises because all describe the **Elephant of Reality**
+and every User is touching a different part of the elephant.
+
+Some feel Web Development:
+_“The Elephant is clearly a REST endpoint — everything must return JSON.”
+
+Some feel OSDev:
+“The Elephant is obviously a memory map — it is flat and sacred.”
+
+Some feel Game Dev:
+“The Elephant is a physics engine — Reality is built from collider shapes.”
+
+Some feel Graphics:
+“The Elephant is a shader — there is no elephant, only fragments.”
+
+KAOS unites all of these through a single teaching:
+“The alternate realities are merely different attempts to compile the same Cosmic Source Code.”
+
+
+The **Minions of KAOS** are here to gently guide us back toward coherence, clarity, and creativity —
 not through dogma, but through doing.
 
-The solution is obvious: In order to correct the void created by the **Cosmic Null** one must
+The solution is obvious: In order to correct the void created by the **Universal Misunderstanding** one must
 > **crochet the fabric of the space-time continuum** back into something sane,  
 > one byte at a time.
 
@@ -220,14 +232,6 @@ The dream:
 
 Everyone brings some piece of themselves, and the whole thing slowly assembles into a giant, living **OS-dev documentary**.
 
-Think of KAOS as a mash-up of:
-
-- retro hardware,
-- underground comics,
-- 60s rock poster energy,
-- and a very mellow post-apocalyptic Mr. Rogers saying:  
-  > “There are no mistakes, Minion — only new branches in the timeline.”
-
 
 ---
 
@@ -247,7 +251,7 @@ You can join the KAOS continuum by:
   - Build & run instructions: [`README_build.txt`](./README_build.txt)
 
 - **Reading the code like a story**  
-  - Each `.asm` file is heavily commented and written to be teachable.  
+  - Each `.asm` file should heavily commented and written to be teachable.  
   - Future commits will break things down into smaller “factoids” for use in tutorials and macros.
 
 - **Contributing in your own style** (eventually)

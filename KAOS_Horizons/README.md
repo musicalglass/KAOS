@@ -1,7 +1,5 @@
 # KAOS
 
----
-
 ## Welcome, weary traveler — You Have Finally Arrived!
 
 If you are reading this, you somehow slipped through the cracks in the **Universal Misunderstanding**.

@@ -19,7 +19,7 @@ Out there, in the default timeline, reality is slowly unraveling into a kind of 
 
 Here, in the KAOS continuum, we assume the opposite:
 
-> 💡 _You are not the problem. The stack is._
+> 💡 _You are not the problem. The system is._
 
 KAOS is an experiment in rewriting that stack from the bottom up, in a way that is:
 - understandable,

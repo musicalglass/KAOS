@@ -20,8 +20,24 @@ Full disk image builder (build.sh)
 
 Perfect for educational use, tinkering, and teaching OS fundamentals.
 
-> 💡 _You are not the problem. The system is._
+THE GREAT PRINCIPLES OF KAOS
 
+There Are No Errors — Only Invitations.
+In KAOS, every bug is a playful nudge from the cosmos.
+
+A Minion Is Never Alone.
+All Minions debug together.
+
+Slack Is Holy.
+Overwork is the enemy. Relax into enlightenment.
+
+The Computer Is Your Mirror.
+Every crash, every hiccup, every accidental infinite loop…
+reflects something inside you that seeks understanding.
+
+Teach What You Learn.
+Each contribution must include a video.
+Knowledge flows through Minions, not around them.
 
 In other words:  
 > You can boot, pick 16 or 32, visit each realm, and return — all on your own tiny universe in a `drive.img`.
@@ -282,6 +298,44 @@ Eventually Scheme can orchestrate the OS from its own console
 And thus KAOS becomes:
 
 🌈 The First Self-Documenting, Self-Teaching Operating System in History
+
+🜁 THE MINION CODE OF CONDUCT
+1. Minions Are Kind.
+
+A Minion lifts other Minions.
+Even when they forget a semicolon.
+
+2. Minions Embrace Confusion.
+
+Confusion is not a flaw —
+it is the universe compiling you into a higher form.
+
+3. Minions Document Their Magic.
+
+Every contribution must include a video.
+Show your work.
+Share your joy.
+
+4. Minions Laugh at Crashes.
+
+When the screen fills with ♥ or ☺,
+consider it a cosmic hug.
+
+5. Minions Respect All Realities.
+
+Everyone arrives with different backgrounds, languages, experiences.
+KAOS welcomes all.
+
+6. Minions Never Gatekeep.
+
+No ego.
+No elitism.
+We are all beginners in someone else’s domain.
+
+7. Minions Care for the Archives.
+
+Knowledge must be preserved in factoids, metadata, and documentation
+so future Minions may walk the same weird path and surpass us.
    
 ## Quickstart
 

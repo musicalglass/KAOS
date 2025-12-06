@@ -1,6 +1,6 @@
 # KAOS
 
-## Welcome, weary traveler — You Have Finally Arrived!
+## Boldness has genius, power, and magic in it. Begin it now!
 
 **KAOS Horizons** Is a bare bones minimal OS shell with a bootloader that simply hands control to another program that is a 16 Bit State Machine.
 A simple Menu whose function is similar to a Linux Grub Bootloader which is set up to allow you to jump to either an external 16 Bit Real Mode program or external 32 Bit Protected Mode and back again to the main menu. KAOS is not another Linux clone. It is unique. The KAOS menu does not reside in the bootloader like grub. After booting it has done it's job, is now obsolete, and the entire boot block can immediately be used as free memory.

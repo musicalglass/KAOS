@@ -8,7 +8,7 @@ Out there, in the default timeline, reality is slowly unraveling into a kind of 
 
 This is the sacred origin myth:
 
-At the dawn of time, the nascent universe processed a factoid incorrectly —
+In the development stage of the dawn of time, the nascent universe processed a factoid incorrectly —
 not an error, merely a misunderstanding.
 
 - A subroutine unrolled prematurely.
@@ -54,6 +54,8 @@ KAOS Minions exist to gently re-roll the factoids of existence.
 Here, in the KAOS continuum, we assume the opposite:
 
 > 💡 _You are not the problem. The system is._
+
+![KAOS Horizons](assets/KAOS_drone.jpg?raw=1)
 
 KAOS is the **Completion Backward Principle** in action: rewriting reality based on a future copy of itself from an alternate timeline, in a way that is:
 - understandable,

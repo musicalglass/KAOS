@@ -80,8 +80,35 @@ We can:
 
 …into yet another **alternate Kernel of understanding**.
 
----
 
 > *Something like that.*  
->  
 > *It’s hard to put into words.*
+
+---
+
+
+What You Should See
+-------------------
+
+1. Bootloader (boot/boot16.bin @ LBA 0)
+   * Switches to 80x25 text mode for chunky retro appearance and clears the screen.
+   * Hides the hardware cursor.
+   * Draws:
+        (0,0): white smiley character
+        (0,1): red heart
+   * Waits briefly (nested delay).
+   * Loads 4 sectors from LBA 1 → 0000:8000.
+   * Bootstraps the KAOS menu at 0000:8000.
+
+2. KAOS Menu (kernel/menu16.bin @ 0000:8000)
+   * Clear the screen.
+   * Title: "KAOS Kernel"
+   * "Press F2 to run 16 Bit program"
+   * On key release jump to prog16.bin @ 0000:9000
+
+3. 16 Bit Application (modules16/prog16.bin @ 0000:9000)
+   * Clear the screen.
+   * Title: "KAOS 16 Bit Application"
+   * "Press F1 to return to KAOS menu"
+   * On key release jump to the KAOS menu at 0000:8000.
+

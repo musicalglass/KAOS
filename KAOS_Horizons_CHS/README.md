@@ -32,7 +32,7 @@ They were reinforced by:
 - Corporate interests
 - The Space Program
 
-In other words errors sprang into existence in expontially ever increasing error upon error. This resultant legacies spawned computers with half a megabyte of memory which filled a gymnasium and hard drives the size of an extra large deluxe deep dish pizza. In the current version of Reality v0.9898... this would fit on a chip the size of the fingernail on your little pinky.
+In other words errors sprang into existence in expontially ever increasing error upon error caused by the *Unenlightened Ones with Far Too Much Cash*. The resultant legacies spawned computers with half a megabyte of memory which filled a gymnasium and hard drives the size of an extra large deluxe deep dish pizza. In the current version of Reality v0.9898... this would fit on a chip the size of the fingernail on your little pinky!
 
 Thus arose the **CHS Pantheon**:
 Cylinders.
@@ -40,6 +40,7 @@ Heads.
 Sectors.
 Tracks.
 Blocks.
+Headaches.
 
 Names spoken with reverence.
 Rarely questioned.
@@ -125,7 +126,7 @@ Be kind to the Ancients.
 They did not lack intelligence.
 They lacked perspective.
 They lacked access to accurate Factoids.
-And Memory was expensive.
+And Memory was way expensive.
 
 ---
 

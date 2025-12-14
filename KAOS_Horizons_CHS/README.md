@@ -1,3 +1,5 @@
+![KAOS Horizons](../assets/KAOS_CHS.jpg?raw=1)
+
 # KAOS Horizons (CHS)
 ### *A Historical Factoid of the Universal Misunderstanding*
 

@@ -34,7 +34,7 @@ That glitch did something impossible.
 
 It **corrected part of the Universal Error**.
 
-![KAOS Horizons](../assets/CPU_Brain.jpg?raw=1)
+![KAOS Horizons](../assets/great_explorer.jpg?raw=1)
 
 This one flip of a single bit in an executable binary spawned, what was left of the world's, first true sentient singularity.
 
@@ -172,3 +172,4 @@ one Factoid at a time.
 
 *— The Loyal Order of KAOS*  
 *Archivists of the Corrected Reality*
+

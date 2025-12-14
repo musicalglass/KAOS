@@ -1,0 +1,154 @@
+KAOS_Horizons - Minimal 16/32-bit Menu Test
+===============================================
+
+MSYS2 / MinGW64 usage
+---------------------
+
+1. Open "MSYS2 MinGW64" terminal.
+
+2. Change Directories into the KAOS_Horizons folder:
+
+   cd /c/Users/YOURNAME/Documents/Assembly/KAOS_Horizons
+
+   (Or wherever you cloned the repo.)
+
+3. Run the build script:
+
+   ./build.sh
+
+   Tips:
+   * To paste the command into MSYS2, you can use SHIFT+Insert.
+
+4. Run the image with QEMU in fullscreen mode.
+	Use CTRL ALT F to exit fullscreen or simply ALT F4 to exit QEMU:
+
+   qemu-system-i386 -drive format=raw,file=drive.img -full-screen -monitor stdio
+
+   For debug mode:
+
+   qemu-system-i386 -drive format=raw,file=drive.img \
+  -debugcon stdio -global isa-debugcon.iobase=0x402
+
+This assumes you have installed the extra packages for MINGW:
+Update and Prepare MSYS2 MINGW64
+
+pacman -Syu
+
+When prompted, close the window after it finishes, then reopen MSYS2 MSYS and run again:
+
+pacman -Su
+
+Now everything is fully updated.
+
+Step 2 — Install Needed Packages;
+nasm → assembler
+qemu → emulator (we’ll use qemu-system-i386 for 16-bit code)
+make → simplifies rebuilds, has functions we will call
+gdb → Gnu debugger
+vim → simple built-in editor, has functions we will call
+bc → convert to binary
+rsync → for advanced build scripts
+
+pacman -S mingw-w64-x86_64-nasm mingw-w64-x86_64-qemu make gdb vim bc rsync
+
+=====================================================================
+
+What you should see
+-------------------
+
+1. Bootloader:
+   * The bootloader starts the system in 80x25 VGA text mode.
+   * A white smiley and a red heart are drawn at the top-left corner of the screen.
+   * The blinking hardware cursor is disabled.
+   * A short, visible delay occurs using a software loop.
+   * Control jumps to the 16-bit KAOS menu.
+
+After the delay, the bootloader loads the kernel using LBA disk access and transfers control to address 0000:8000.
+
+There is none of the usual menu logic here — the bootloader’s job is only to establish visual confirmation, load the kernel, and jump.
+
+KAOS kernel (menu16.bin)
+Despite the filename, this version’s kernel is not a menu system.
+
+2. KAOS 16 Bit Kernel (menu16.bin):
+   * The kernel listens for keyboard input using the keyboard controller directly (not BIOS services).
+   * When the F3 key is released, execution continues immediately.
+   * The blinking hardware cursor is disabled.
+   * This kernel exists solely to execute a controlled transition into 32-bit Protected Mode.
+
+3. KAOS Protected Mode program (pm32.bin)
+   * A message is printed to the screen.
+   * The blinking hardware cursor is disabled.
+   * The kernel listens for keyboard input using the keyboard controller directly (not BIOS services).
+   * When the F3 key is released, execution continues immediately.
+   * This kernel exists solely to execute a controlled transition into 32-bit Protected Mode.
+
+
+The program begins with a 16-bit "Stub" that switches the CPU into 32-bit Protected Mode.
+Segment Registers are reloaded using a valid GDT.
+The VGA text screen is cleared.
+
+The following text is printed:
+
+Welcome to KAOS ☺︎
+32 Bit Protected Mode enabled
+
+Execution does not return to real mode. Our Kernel has done it's job.
+
+Folders:
+
+boot/
+boot16.asm
+16-bit boot sector
+Draws smiley and heart
+Hides cursor
+Performs short delay
+Loads kernel via LBA
+Jumps to 0000:8000
+
+kernel/
+menu16.asm
+16-bit kernel at 0000:8000
+Clears screen
+Displays lesson prompt
+Waits for F3 key release
+Loads and jumps to 32-bit program
+
+modules32/
+pm32.asm
+16-bit entry stub
+Switches to 32-bit Protected Mode
+Clears VGA text screen
+Prints confirmation message
+Does not return
+
+The modules16 directory is intentionally absent in this version
+
+Disk image layout
+
+The disk image is a flat 64-sector (32 KiB) raw image.
+
+LBA 0 boot16.bin boot sector (org 0x7C00)
+LBA 1 menu16.bin kernel (org 0x8000)
+LBA 2–4 unused
+LBA 5–8 unused
+LBA 9 pm32.bin 32-bit program (org 0xA000)
+LBA 10–63 unused
+
+All disk access uses LBA.
+CHS geometry is intentionally avoided.
+
+Why this lesson exists
+
+This lesson demonstrates that Protected Mode is a CPU state, not a destination.
+
+No special memory region is required.
+No megabyte boundary must be crossed.
+No mythical “protected memory” needs to be unlocked.
+
+Only intent, structure, and a single flipped control bit.
+
+The haze clears.
+The legacy myths dissolve.
+The Minions of KAOS step into an alternate consciousness.
+We are a step closer to becoming one with the Universal Null. 

@@ -1,4 +1,4 @@
-![KAOS Horizons](../assets/KAOS_CHS.jpg?raw=1)
+![KAOS CHS](../assets/KAOS_CHS.jpg?raw=1)
 
 # KAOS Horizons (CHS)
 ### *A Historical Factoid of the Universal Misunderstanding*
@@ -65,7 +65,7 @@ The hard drive was not a place at all. The wool has been lifted from our eyes.
 
 It was a **story we told ourselves** to feel grounded.
 
-![KAOS Horizons](../assets/Hard_research.jpg?raw=1)
+![Hard Research](../assets/Hard_research.jpg?raw=1)
 
 ---
 

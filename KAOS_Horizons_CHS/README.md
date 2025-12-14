@@ -63,6 +63,8 @@ The hard drive was not a place at all. The wool has been lifted from our eyes.
 
 It was a **story we told ourselves** to feel grounded.
 
+![KAOS Horizons](../assets/Hard_research.jpg?raw=1)
+
 ---
 
 ## Why This Still Exists

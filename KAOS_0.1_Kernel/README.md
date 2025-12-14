@@ -42,7 +42,7 @@ and into a whole new mind.
 
 This new mind is represented by an **alternate area in resident memory**.
 
-![KAOS Horizons](../assets/CPU_Brain.jpg?raw=1)
+![CPU Brain](../assets/CPU_Brain.jpg?raw=1)
 
 ---
 
@@ -113,5 +113,6 @@ What You Should See
    * Title: "KAOS 16 Bit Application"
    * "Press F1 to return to KAOS menu"
    * On key release jump to the KAOS menu at 0000:8000.
+
 
 

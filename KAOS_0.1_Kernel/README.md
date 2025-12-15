@@ -114,5 +114,11 @@ What You Should See
    * "Press F1 to return to KAOS menu"
    * On key release jump to the KAOS menu at 0000:8000.
 
+   ---
+
+   [Continue to KAOS Kernel](https://github.com/musicalglass/KAOS/tree/master/KAOS_0.1_Kernel)
+   
+
+
 
 

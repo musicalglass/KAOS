@@ -116,9 +116,4 @@ What You Should See
 
    ---
 
-   [Continue to KAOS Kernel](https://github.com/musicalglass/KAOS/tree/master/KAOS_0.1_Kernel)
-   
-
-
-
-
+[Continue to KAOS Protected Mode](https://github.com/musicalglass/KAOS/tree/master/KAOS_0.2_Protected)

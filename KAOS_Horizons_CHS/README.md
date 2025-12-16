@@ -136,3 +136,7 @@ And Memory was way expensive.
 
 *— The Loyal Order of KAOS*  
 *Archivists of the Universal Misunderstanding*
+
+---
+
+[Continue to KAOS Horizons LBA(https://github.com/musicalglass/KAOS/tree/master/KAOS_Horizons_LBA)

@@ -102,7 +102,5 @@ Welcome to KAOS ☺︎
 
 ---
 
-[Continue to KAOS Protected Mode](https://github.com/musicalglass/KAOS/tree/master/KAOS_0.2_Protected)
-
-
+[Continue to KAOS Horizons CHS](https://github.com/musicalglass/KAOS/tree/master/KAOS_Horizons_CHS)
 

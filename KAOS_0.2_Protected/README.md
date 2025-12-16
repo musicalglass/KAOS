@@ -98,3 +98,11 @@ Technically speaking (and we are still engineers, mostly after all):
 ```text
 Welcome to KAOS ☺︎
 32 Bit Protected Mode enabled
+```
+
+---
+
+[Continue to KAOS Protected Mode](https://github.com/musicalglass/KAOS/tree/master/KAOS_0.2_Protected)
+
+
+

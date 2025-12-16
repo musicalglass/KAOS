@@ -271,6 +271,12 @@ If you can boot a QEMU image and are curious how it works, you’re already one 
 
 From an MSYS2 MinGW64 shell on Windows:
 
+---
+
+   [Continue to KAOS Kernel](https://github.com/musicalglass/KAOS/tree/master/KAOS_0.1_Kernel)
+
+
+
 ```bash
 cd /c/Users/YOURNAME/Documents/Assembly/KAOS_Horizons
 ./build/build.sh

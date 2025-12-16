@@ -276,7 +276,7 @@ From an MSYS2 MinGW64 shell on Windows:
 cd /c/Users/YOURNAME/Documents/Assembly/KAOS_Horizons
 ./build/build.sh
 qemu-system-i386 -drive format=raw,file=drive.img -full-screen -monitor stdio
-
+```
 ---
 
    [Continue to KAOS Kernel](https://github.com/musicalglass/KAOS/tree/master/KAOS_0.1_Kernel)

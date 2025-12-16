@@ -78,7 +78,7 @@ KAOS Horizons (CHS) is preserved because:
 - It shows how systems can limp along for decades powered by belief alone
 - It works — despite being conceptually upside-down
 - It is referred to in countless ancient technical manuals and developer forums as the state of the art **only known truth**
-- It **runs on older digital hard drives**
+- It **runs on older pre-digital hard drives**
 
 This codebase is therefore classified as:
 
